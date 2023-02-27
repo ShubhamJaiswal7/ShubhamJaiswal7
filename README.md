@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Shubham Kumar Jaiswal</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
-<img src="https://media.tenor.com/NOYF3f82b_gAAAAS/programmer.gif" alt="">
+<img src="https://t3.ftcdn.net/jpg/02/24/86/92/360_F_224869243_WZHOVD3GqYq6ZUzRkZbQNTXzg1FzHwhd.jpg" alt="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamjaiswal7&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamjaiswal7" /> </p>
 
