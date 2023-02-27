@@ -1,4 +1,3 @@
-[![MasterHead](https://cdn.dribbble.com/users/2514208/screenshots/9457622/media/30a1e1fa2d62e32d6b3e592518bfa6e5.gif)](https://www.linkedin.com/in/shubham-kumar-jaiswal-324143201/)
 
 
 <h1 align="center">Hi 👋, I'm Shubham Kumar Jaiswal</h1>
