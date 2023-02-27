@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F9457622-web-developer&psig=AOvVaw1wM5HKwG7U8rgh4paBLErY&ust=1677604195260000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMj6pOOYtv0CFQAAAAAdAAAAABAJ)](https://www.linkedin.com/in/shubham-kumar-jaiswal-324143201/)
+[![MasterHead](https://cdn.dribbble.com/users/2514208/screenshots/9457622/media/30a1e1fa2d62e32d6b3e592518bfa6e5.gif)](https://www.linkedin.com/in/shubham-kumar-jaiswal-324143201/)
 
 
 <h1 align="center">Hi 👋, I'm Shubham Kumar Jaiswal</h1>
